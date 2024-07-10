@@ -39,7 +39,6 @@ rating:{
 },
 rooms:{
     type: [String],
-    
 },
 cheapestPrice:{
     type: Number,
